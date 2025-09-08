@@ -1,4 +1,4 @@
-# ML-CVDs# 🫀 Cardiovascular Disease Prediction Project
+# ML-CVDs 🫀 Cardiovascular Disease Prediction Project
 
 This project builds an **agent-based machine learning system** to predict the **presence of cardiovascular disease (CVD)** in individuals, using demographic, anthropometric, clinical, and lifestyle features. The dataset consists of ~70,000 individuals aged **29–64 years**.
 
