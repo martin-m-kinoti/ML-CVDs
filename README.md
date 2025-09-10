@@ -53,7 +53,10 @@ The following 2-way interactions were considered:
 
 ---
 
-## 🤖 Modeling
+## 🤖 Main Models
+- **DecisionTreesClassifier**
+
+- **RandomForestClassifier**
 
 
 ---
