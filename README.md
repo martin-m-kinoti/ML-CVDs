@@ -58,6 +58,7 @@ The following 2-way interactions were considered:
 
 - **RandomForestClassifier**
 
+- **Sequential Model**
 
 ---
 
